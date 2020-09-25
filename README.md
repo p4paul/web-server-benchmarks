@@ -18,4 +18,4 @@ My benchmarks a farily close to the original article, but I use a `/fib/:number`
 
 ### Serve a JAR file from my local file system
 
-Uses a hard coded path to a JAR in my maven `.m2/` cache.
+Uses a sample file `sample/commons-lang-2.6.jar` for file transfer tests.
