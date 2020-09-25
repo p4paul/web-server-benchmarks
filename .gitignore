@@ -1,0 +1,7 @@
+.DS_Store
+.p4config
+.p4ignore
+
+.idea/
+node_modules/
+wrk/
